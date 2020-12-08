@@ -12,4 +12,5 @@ personal projects on github
 External links:
 - [Numpy utilities](https://queirozf.com/entries/numpy-scipy-distributions-and-statistical-operations-examples-reference)
 - [Monte Carlo Simulation](https://pbpython.com/monte-carlo.html)
+- [SNS showing plots in grid format](https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8)
 
